@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="home_page">Home page</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Open</string>
+
+    <string name="accelerometer_activity">Accelerometer </string>
+    <string name="gyroscope_activity">Gyroscope </string>
+    <string name="proximity_activity">Proximity </string>
+    <string name="shake_detection">Shake </string>
+    <string name="map_activity">Map </string>
+    <string name="welcome_to_sensor_detection_app">welcome to sensor detection app</string>
+    <string name="shake_data">Shake Data</string>
+    <string name="map_data">Map Data</string>
+    <string name="gyro_data_str">Gyroscope Data</string>
+    <string name="x">X :</string>
+    <string name="y">Y :</string>
+    <string name="z">Z :</string>
+    <string name="rotation_indicator">Rotation Indicator</string>
+    <string name="enter_source">Source</string>
+
+</resources>
